@@ -4,15 +4,13 @@ I'm a fourth year Computer Science student at the University of Georiga and dedi
 
 - Check out my [website](https:www.google.com) to learn more about me.
 
-## 📦 Toolbox
+## 🔨 Toolbox
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `HTML` `CSS`
  
 **Version Control:** `Git` `GitLab`
 
 **Backend Development:** `MongoDB` `Firebase`
-
-**Testing:** `Cypress` `Postman`
 
 **Others:** `Splunk` `Nmap` `Scrum`
  
@@ -24,4 +22,3 @@ I'm a fourth year Computer Science student at the University of Georiga and dedi
 ## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sakeef-hassan/) or send me an [E-mail](mailto:sakeefhassan1@gmail.com).
- 
