@@ -1,7 +1,8 @@
 ### Hello, I'm Sakeef 👋🏽 
 
 - I'm a fourth year Computer Science student at the University of Georgia and dedicated to shaping unforgettable digital journeys!
-- Feel free to check out my latest GitHub repositories and visit portfolio [website](https:www.google.com) to learn more about me.
+- Feel free to check out my latest GitHub repositories
+- Visit my portfolio [website](https:www.google.com) to learn more about me.
 
 ## 🔨 Toolbox
 
