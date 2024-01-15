@@ -5,18 +5,18 @@
 
 ## 🔨 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `HTML` `CSS`
+**Frontend Development:** `React` `Next.js` `TypeScript` `Redux` `CSS`
  
 **Version Control:** `Git` `GitLab`
+ 
+**Backend Development:** `MongoDB` `Firebase` `Node.js` `Express.js`
 
-**Backend Development:** `MongoDB` `Firebase`
-
-**Others:** `Splunk` `Nmap` `Scrum`
+**Cloud Services:** `Microsoft Azure` `Heroku` `Google Cloud Platform`
  
 ## 🎆 Fun Facts
 
-- Placeholder
-- Placeholder
+- My favorite videogame is The Last of Us Part 2.
+- As a kid, I wanted to be a famous music composer.
 
 ## 📫 Contact
 
