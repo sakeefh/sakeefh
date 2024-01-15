@@ -13,7 +13,7 @@ Feel free to check out my latest GitHub repositories and visit portfolio [websit
 
 **Others:** `Splunk` `Nmap` `Scrum`
  
-## ✨ Fun Facts 
+## 🎆 Fun Facts
 
 - Placeholder
 - Placeholder
