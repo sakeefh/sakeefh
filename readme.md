@@ -7,7 +7,7 @@
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Redux` `CSS`
  
-**Version Control:** `Git` `GitLab`
+**Version Control:** `Bitbucket` `Git` `GitLab`
  
 **Backend Development:** `MongoDB` `Firebase` `Node.js` `Express.js`
 
