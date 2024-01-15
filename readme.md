@@ -1,8 +1,7 @@
 ### Hello, I'm Sakeef 👋🏽 
 
 I'm a fourth year Computer Science student at the University of Georgia and dedicated to shaping unforgettable digital journeys!
-
-- Check out my [website](https:www.google.com) to learn more about me.
+Feel free to check out my latest GitHub repositories and visit portfolio [website](https:www.google.com) to learn more about me.
 
 ## 🔨 Toolbox
 
@@ -21,4 +20,4 @@ I'm a fourth year Computer Science student at the University of Georgia and dedi
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sakeef-hassan/) or send me an [Email](mailto:sakeefhassan1@gmail.com).
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sakeef-hassan/) or send me an [Email](mailto:sakeefhassan1@gmail.com).
