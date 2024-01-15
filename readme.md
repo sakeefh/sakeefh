@@ -23,5 +23,5 @@ I'm a fourth year Computer Science student at the University of Georiga and dedi
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sakeef-hassan/) or send an [E-mail](mailto:sakeefhassan1@gmail.com)
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sakeef-hassan/) or send me an [E-mail](mailto:sakeefhassan1@gmail.com)
  
