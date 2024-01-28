@@ -11,7 +11,7 @@
  
 **Backend Development:** `MongoDB` `Firebase` `Node.js` `Express.js`
 
-**Cloud Services:** `Microsoft Azure` `Heroku` `Google Cloud`
+**Cloud Services:** `Microsoft Azure` `AWS` `Google Cloud`
  
 ## 🎆 Fun Facts
 
