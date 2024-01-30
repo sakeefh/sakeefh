@@ -5,7 +5,7 @@
 
 ## 🔨 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Redux` `CSS`
+**Frontend Development:** `React.js` `Next.js` `TypeScript` `HTML` `CSS`
  
 **Version Control:** `Bitbucket` `Git` `GitLab`
  
