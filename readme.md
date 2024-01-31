@@ -18,6 +18,6 @@
 - My favorite videogame is The Last of Us Part 2.
 - As a kid, I wanted to be a famous music composer.
 
-## 📫 Contact
+## ✉️ Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sakeef-hassan/) or send me an [Email](mailto:sakeefhassan1@gmail.com).
