@@ -1,6 +1,6 @@
 ### Hello, I'm Sakeef 👋🏽 
 
-- I'm a fourth year Computer Science student at the University of Georgia and am open to working full time roles in IT and Cybersecurity.
+- I'm a fourth year Computer Science student at the University of Georgia and am actively pursuing full-time roles in IT and Cybersecurity
 - Feel free to check out my latest GitHub repositories and visit my portfolio [website](https://www.google.com/) to learn more about me.
 
 ## 🔨 Toolbox
