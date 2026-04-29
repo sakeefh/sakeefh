@@ -23,4 +23,4 @@
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/sakeef-hassan/
+* https://www.linkedin.com/in/sakeef-hassan/
