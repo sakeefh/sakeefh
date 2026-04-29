@@ -1,16 +1,26 @@
-### Hello, I'm Sakeef 👋🏽 
+# Hey, I'm Sakeef 👋🏽
 
-## 🔨 Toolbox
+---
 
-**Frontend Development:** `React.js` `Next.js` `TypeScript` `HTML` `CSS`
- 
-**Version Control:** `Bitbucket` `Git` `GitLab`
- 
-**Backend Development:** `MongoDB` `Firebase` `Node.js` `Express.js`
+## ⚙️ Tech Stack
 
-**Cloud Services:** `Microsoft Azure` `AWS` `Google Cloud`
- 
-## 📪 Contact
+### 🖥️ Programming & Development
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sakeef-hassan/)
+`Python` `JavaScript` `TypeScript` `SQL`
+`React.js` `Node.js`
 
+### 🌐 Networking & Systems
+
+`TCP/IP` `Routing & Switching` `Network Architecture`
+`Linux` `Shell Scripting`
+
+### ☁️ Cloud & Data
+
+`AWS` `Microsoft Azure` `Google Cloud` `MongoDB` `Firebase`
+
+### 🤖 Machine Learning & Data Science
+`NumPy` `Pandas` `scikit-learn`
+
+## 📬 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sakeef-hassan/
