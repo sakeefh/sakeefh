@@ -1,6 +1,6 @@
 # Hey, I'm Sakeef 👋🏽
 
-Data & AI Engineer building **agents and agentic workflows** for business use cases.
+Data/AI Engineer building **agents and agentic workflows** for business use cases.
 I build in public, so expect experiments, works-in-progress, and tools you can plug into your own agents.
 
 ---
