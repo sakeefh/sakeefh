@@ -22,9 +22,3 @@ I build in public, so expect experiments, works-in-progress, and tools you can p
 **Languages:** Python · TypeScript · SQL
 
 **Data & Cloud:** Pandas · scikit-learn · AWS · Azure · Google Cloud
-
----
-
-## 📬 Connect
-
-[LinkedIn](https://www.linkedin.com/in/sakeef-hassan/)
