@@ -1,7 +1,7 @@
-# Hey, I'm Sakeef 👋🏽
+# Hey, I'm Sakeef👋🏽
 
-I am Data/AI Engineer and I enjoy building **agents and agentic workflows** for business use cases.
-I build in public, so expect experiments, works-in-progress, and tools you can plug into your own agents.
+I'm a Data/AI Engineer building **agents and agentic workflows** for business use cases and my hobbies, like music production.
+I'm building in public, so expect experiments, works-in-progress, and tools you can plug into your own agents.
 
 ---
 
@@ -21,4 +21,4 @@ I build in public, so expect experiments, works-in-progress, and tools you can p
 
 **Languages:** Python · TypeScript · SQL
 
-**Data & Cloud:** Pandas · scikit-learn · AWS · Azure · Google Cloud
+**Data & Cloud:** Pandas · scikit-learn · Azure · Databricks
