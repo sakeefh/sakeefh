@@ -1,26 +1,28 @@
 # Hey, I'm Sakeef 👋🏽
 
+Data & AI Engineer building **agents and agentic workflows** for business use cases.
+I build in public, so expect experiments, works-in-progress, and tools you can plug into your own agents.
+
 ---
 
-## ⚙️ Tech Stack
+## 🔨 What I'm Building
 
-### 🖥️ Programming & Development
+- **Agent Skills Library**: reusable skills you can import straight into your own agents. *(coming soon)*
+- **FL Studio × AI**: an MCP server and setup guide for bringing AI assistants into FL Studio. *(coming soon)*
+- **ChatGPT Apps**: custom apps and integrations that extend what ChatGPT can do. *(planned)*
 
-`Python` `JavaScript` `TypeScript` `SQL`
-`React.js` `Node.js`
+⭐ Star or watch this profile to follow along as these ship.
 
-### 🌐 Networking & Systems
+---
 
-`TCP/IP` `Routing & Switching` `Network Architecture`
-`Linux` `Shell Scripting`
+## ⚙️ Stack
 
-### ☁️ Cloud & Data
+**AI & Agents:** LLM APIs · MCP · Agentic workflows
+**Languages:** Python · TypeScript · SQL
+**Data & Cloud:** Pandas · scikit-learn · AWS · Azure · Google Cloud
 
-`AWS` `Microsoft Azure` `Google Cloud` `MongoDB` `Firebase`
+---
 
-### 🤖 Machine Learning & Data Science
-`NumPy` `Pandas` `scikit-learn`
+## 📬 Connect
 
-## 📬 Connect With Me
-
-* https://www.linkedin.com/in/sakeef-hassan/
+[LinkedIn](https://www.linkedin.com/in/sakeef-hassan/)
