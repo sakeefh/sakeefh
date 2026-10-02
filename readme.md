@@ -11,7 +11,7 @@ I build in public, so expect experiments, works-in-progress, and tools you can p
 - **FL Studio × AI**: an MCP server and setup guide for bringing AI assistants into FL Studio. *(coming soon)*
 - **ChatGPT Apps**: custom apps and integrations that extend what ChatGPT can do. *(planned)*
 
-⭐ Star or watch this profile to follow along as these ship.
+⭐ Star my profile to follow along as these ship.
 
 ---
 
