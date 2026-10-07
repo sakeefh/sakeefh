@@ -1,6 +1,6 @@
 # Hey, I'm Sakeef👋🏽
 
-I'm a Data/AI Engineer building **agents and agentic workflows** for business use cases and my hobbies, like music production.
+I'm a Data/AI Engineer building **agents and agentic workflows** for business use cases and my interests, like cybersecurity and music production.
 I'm building in public, so expect experiments, works-in-progress, and tools you can plug into your own agents.
 
 ---
