@@ -14,7 +14,7 @@ I'm building in public, so expect experiments, works-in-progress, and tools you 
 
 ## ⚙️ Stack
 
-**AI & Agents:** LangChain · MCP · Agentic workflows
+**Agents and Automation:** LangChain · MCP · Agentic workflows · n8n
 
 **Languages:** Python · TypeScript · SQL
 
